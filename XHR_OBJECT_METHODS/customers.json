@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "company": "Microsoft",
+        "phone": "5555-1151"
+    },
+    {
+        "id": 2,
+        "name": "Guaracy",
+        "company": "Marlin Fishing Co.",
+        "phone": "5484-4646"
+    },
+    {
+        "id": 3,
+        "name": "Walt",
+        "company": "Paint Blue",
+        "phone": "4546-1561"
+    }
+]
